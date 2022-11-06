@@ -17,7 +17,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("git idea test");
         System.out.println("Hello atguigu 2222");
-        System.out.println("Hello atguigu");
+        System.out.println("Hello atguigu333");
         System.out.println("Hello atguigu");
         System.out.println("Hello atguigu");
         System.out.println("Hello atguigu");
